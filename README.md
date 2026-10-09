@@ -10,7 +10,8 @@ This project processes Fantasy Premier League (FPL) data to create a star schema
 
 ## Diagram
 
-![FPL Gold Layer Star Schema Diagram](./FPL%20Gold%20Layer%20Star%20Schema%20Diagram.png)
+![Uploading FPL Gold Layer Star Schema Diagram.png…]()
+
 
 ## Setup Instructions
 
