@@ -34,4 +34,5 @@ This project processes Fantasy Premier League (FPL) data to create a star schema
 This project was created as part of the FPL data analysis workflow.
 
 ## Dashboard sample: 
+Sample of Databricks Dashboard
 ![Dashboard done in Databricks](image.png)
